@@ -1,4 +1,7 @@
-
+%--------------------------------------------------------------------------
+% Fuzzy Logic Control for Two Link Robotic Manipulator
+% (Prepared By: Dr. Girish V. Lakhekar)
+%--------------------------------------------------------------------------
 % Create Sugeno-type FIS
 fis = sugfis('Name', 'TunedFLC');
 % Input: error (e)
